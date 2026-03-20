@@ -1,2 +1,3 @@
-# open-marketplace-4cty
-A online marketplace platform for modern development workflows
+# Open Marketplace 4Cty
+
+A online marketplace platform for modern development workflows.
